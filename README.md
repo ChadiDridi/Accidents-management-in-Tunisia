@@ -65,7 +65,7 @@ python app.py
 
 
 ## Screenshots
-
+<img src="/img/db_event.png" width="128"/>
 
 ## Optimizations
 
